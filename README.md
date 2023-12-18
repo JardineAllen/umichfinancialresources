@@ -1,2 +1,2 @@
 # umichfinancialresources
-"Zed Project 2023-24"
+Zed Project 2023-24
